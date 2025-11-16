@@ -1,10 +1,13 @@
 # Power_Bi_Dashboard
 
+
+
 1. Comprehensive Business Performance Dashboard
 
 A fully-interactive Power BI dashboard designed to provide insights into overall business performance, including sales, profit, discounts, category trends, and time-based analysis. This report helps decision-makers quickly identify key patterns, track KPIs, and optimize operations using real-time analytics.
 
 This dashboard consolidates multiple business metrics into a single, easy-to-navigate interface. It highlights performance across cities, product categories, and time periods, enabling data-driven decision-making for sales teams, finance teams, and business managers.
+
 
 
 2. Purpose of the Dashboard
@@ -15,6 +18,7 @@ Track and analyze core KPIs including Sales, Profit, and Quantity.
 Identify top-performing cities, categories, and product types to support data-driven decision-making.
 Analyze the impact of discounts on profitability and highlight areas for margin optimization.
 Visualize time-based profit trends to support forecasting and strategic planning.
+
 
 
 3. Tech Stack
@@ -56,6 +60,7 @@ Used to visually represent insights using:
 Each visual helps highlight trends, comparisons, and insights in a clear, interactive format.
 
 
+
 4. Dataset
 
 The dashboard uses the **Superstore Sales Dataset**, a popular sample dataset available on Kaggle.
@@ -67,6 +72,7 @@ This dataset was chosen for its rich KPIs, multiple dimensions, and suitability 
 5. Dashboard Features / Highlights
 
 detailed overview of the key visualizations in the Power BI Business Performance Dashboard.
+
 
 📌 KPI Cards — Total Sales, Total Profit & Total Quantity
 
@@ -80,6 +86,7 @@ KPIs:
 
 📦 Total Quantity: 38K — total units sold across all categories.
 
+
 📌 Sales & Profit by City (Bar & Column Combo Chart)
 
 Purpose: Identify regional performance differences and improvement opportunities.
@@ -91,6 +98,7 @@ Sales bars show revenue by city (New York, Los Angeles, Seattle, San Francisco).
 Profit bars indicate profitability of each location.
 
 Highlights which cities drive high revenue and which need attention.
+
 
 📌 Discount by Category (Donut Chart)
 
@@ -106,6 +114,7 @@ Technology – 15.66%
 
 Shows which categories receive the most discounts and potential effect on margins.
 
+
 📌 Profit Over Time (Line Chart)
 
 Purpose: Monitor profit fluctuations to support forecasting and strategic planning.
@@ -118,6 +127,7 @@ Dips: July, October
 
 Detects seasonality and operational inefficiencies.
 
+
 📌 Profit by Discount (Scatter/Trend Chart)
 
 Purpose: Evaluate if discounts drive sales effectively or hurt profitability.
@@ -127,6 +137,7 @@ Insights:
 Negative correlation at high discount levels.
 
 Sharp profit drops when discounts exceed certain thresholds.
+
 
 📌 Percentage of Units Sold per Category (Pie Chart)
 
@@ -142,6 +153,7 @@ Technology – 18.32%
 
 Highlights dominant product categories and contribution to sales volume.
 
+
 📌 Product Category Sales vs Profit (Bar Chart)
 
 Purpose: Spot high-revenue but low-profit products and optimize pricing/cost.
@@ -153,6 +165,7 @@ Phones: High revenue, moderate profit
 Tables: Moderate revenue, low/negative profit
 
 Paper & Supplies: Smaller sales contribution
+
 
 📌 Year Selector (Slicer)
 
