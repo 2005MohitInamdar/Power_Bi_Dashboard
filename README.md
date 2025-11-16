@@ -40,12 +40,19 @@ This improves performance, avoids redundancy, and makes calculations faster and 
 📈 Power BI Visualizations
 
 Used to visually represent insights using:
+
 📇 Cards
+
 🍩 Donut charts
+
 📦 Bar charts
+
 📊 Column charts
+
 📉 Line charts
+
 🥧 Pie charts
+
 Each visual helps highlight trends, comparisons, and insights in a clear, interactive format.
 
 
@@ -64,9 +71,13 @@ detailed overview of the key visualizations in the Power BI Business Performance
 📌 KPI Cards — Total Sales, Total Profit & Total Quantity
 
 Purpose: Quickly monitor the overall financial health of the business.
+
 KPIs:
+
 💰 Total Sales: ₹2.3M — cumulative revenue across all products and regions.
+
 📈 Total Profit: ₹286.4K — profit after deducting costs.
+
 📦 Total Quantity: 38K — total units sold across all categories.
 
 📌 Sales & Profit by City (Bar & Column Combo Chart)
@@ -74,7 +85,9 @@ KPIs:
 Purpose: Identify regional performance differences and improvement opportunities.
 
 Insights:
+
 Sales bars show revenue by city (New York, Los Angeles, Seattle, San Francisco).
+
 Profit bars indicate profitability of each location.
 
 Highlights which cities drive high revenue and which need attention.
@@ -84,8 +97,11 @@ Highlights which cities drive high revenue and which need attention.
 Purpose: Understand discount allocation and its impact on profit.
 
 Insights:
+
 Office Supplies – 60.71% of discounts
+
 Furniture – 23.63%
+
 Technology – 15.66%
 
 Shows which categories receive the most discounts and potential effect on margins.
@@ -95,7 +111,9 @@ Shows which categories receive the most discounts and potential effect on margin
 Purpose: Monitor profit fluctuations to support forecasting and strategic planning.
 
 Insights:
+
 Peaks: April, August, December
+
 Dips: July, October
 
 Detects seasonality and operational inefficiencies.
@@ -105,6 +123,7 @@ Detects seasonality and operational inefficiencies.
 Purpose: Evaluate if discounts drive sales effectively or hurt profitability.
 
 Insights:
+
 Negative correlation at high discount levels.
 
 Sharp profit drops when discounts exceed certain thresholds.
@@ -114,8 +133,11 @@ Sharp profit drops when discounts exceed certain thresholds.
 Purpose: Understand customer buying behavior and stock movement.
 
 Insights:
+
 Office Supplies – 60.48%
+
 Furniture – 21.2%
+
 Technology – 18.32%
 
 Highlights dominant product categories and contribution to sales volume.
@@ -125,7 +147,9 @@ Highlights dominant product categories and contribution to sales volume.
 Purpose: Spot high-revenue but low-profit products and optimize pricing/cost.
 
 Insights:
+
 Phones: High revenue, moderate profit
+
 Tables: Moderate revenue, low/negative profit
 
 Paper & Supplies: Smaller sales contribution
