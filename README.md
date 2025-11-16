@@ -2,7 +2,7 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. ###Comprehensive Business Performance Dashboard
+1. Comprehensive Business Performance Dashboard
 
 A fully-interactive Power BI dashboard designed to provide insights into overall business performance, including sales, profit, discounts, category trends, and time-based analysis. This report helps decision-makers quickly identify key patterns, track KPIs, and optimize operations using real-time analytics.
 
@@ -10,7 +10,7 @@ This dashboard consolidates multiple business metrics into a single, easy-to-nav
 
 
 
-2. ###Purpose of the Dashboard
+2. Purpose of the Dashboard
    
 This dashboard was designed to deliver a clear and interactive overview of overall business performance by focusing on the following objectives:
 Summarize the organization’s overall business health using key visual metrics.
@@ -21,7 +21,7 @@ Visualize time-based profit trends to support forecasting and strategic planning
 
 
 
-3. ###Tech Stack
+3. Tech Stack
    
 🔹 Power BI Desktop
 Used as the main platform to build the entire dashboard — for modeling, cleaning, designing visuals, and publishing.
