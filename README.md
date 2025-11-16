@@ -252,7 +252,7 @@ Loss-making product categories
 Opportunities for pricing or cost improvements
 
 
---h. How does performance vary by year?
+* h. How does performance vary by year?
 
 The year slicer enables:
 
@@ -263,7 +263,7 @@ Trend analysis
 Identification of yearly growth or decline
 
 
---i. Where are the major opportunities for business improvement?
+* i. Where are the major opportunities for business improvement?
 
 From the visuals, the dashboard helps identify:
 
@@ -278,7 +278,7 @@ Seasonal low points
 Inventory planning opportunities
 
 
---j. What are the key drivers of sales vs. profit in the business?
+j. What are the key drivers of sales vs. profit in the business?
 
 The combined insights reveal:
 
