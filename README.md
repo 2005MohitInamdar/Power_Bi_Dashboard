@@ -2,7 +2,7 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. Comprehensive Business Performance Dashboard
+1. **Comprehensive Business Performance Dashboard**
 
 A fully-interactive Power BI dashboard designed to provide insights into overall business performance, including sales, profit, discounts, category trends, and time-based analysis. This report helps decision-makers quickly identify key patterns, track KPIs, and optimize operations using real-time analytics.
 
@@ -288,3 +288,12 @@ How category mix influences profit
 
 Where operational focus should shift
 
+
+Repository Structure / Files     
+
+
+Power_Bi_Dashboard/
+├─ Dashboard Snapshot.png
+├─ README.md
+├─ Sample - Superstore.csv
+├─dashboard.pbit
