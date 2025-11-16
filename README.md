@@ -6,6 +6,7 @@ A fully-interactive Power BI dashboard designed to provide insights into overall
 
 This dashboard consolidates multiple business metrics into a single, easy-to-navigate interface. It highlights performance across cities, product categories, and time periods, enabling data-driven decision-making for sales teams, finance teams, and business managers.
 
+
 2. Purpose of the Dashboard
    
 This dashboard was designed to deliver a clear and interactive overview of overall business performance by focusing on the following objectives:
@@ -14,6 +15,7 @@ Track and analyze core KPIs including Sales, Profit, and Quantity.
 Identify top-performing cities, categories, and product types to support data-driven decision-making.
 Analyze the impact of discounts on profitability and highlight areas for margin optimization.
 Visualize time-based profit trends to support forecasting and strategic planning.
+
 
 3. Tech Stack
    
@@ -46,6 +48,7 @@ Used to visually represent insights using:
 🥧 Pie charts
 Each visual helps highlight trends, comparisons, and insights in a clear, interactive format.
 
+
 4. Dataset
 
 The dashboard uses the **Superstore Sales Dataset**, a popular sample dataset available on Kaggle.
@@ -53,3 +56,80 @@ It contains historical sales data for a fictional retail company, including fiel
 
 This dataset was chosen for its rich KPIs, multiple dimensions, and suitability for analyzing sales trends, profits, and top-performing products. Data preprocessing included removing nulls and duplicates, standardizing column names, and converting date fields to proper types for modeling and visualization in Power BI.
 
+
+5. Dashboard Features / Highlights
+
+detailed overview of the key visualizations in the Power BI Business Performance Dashboard.
+
+📌 KPI Cards — Total Sales, Total Profit & Total Quantity
+
+Purpose: Quickly monitor the overall financial health of the business.
+KPIs:
+💰 Total Sales: ₹2.3M — cumulative revenue across all products and regions.
+📈 Total Profit: ₹286.4K — profit after deducting costs.
+📦 Total Quantity: 38K — total units sold across all categories.
+
+📌 Sales & Profit by City (Bar & Column Combo Chart)
+
+Purpose: Identify regional performance differences and improvement opportunities.
+
+Insights:
+Sales bars show revenue by city (New York, Los Angeles, Seattle, San Francisco).
+Profit bars indicate profitability of each location.
+
+Highlights which cities drive high revenue and which need attention.
+
+📌 Discount by Category (Donut Chart)
+
+Purpose: Understand discount allocation and its impact on profit.
+
+Insights:
+Office Supplies – 60.71% of discounts
+Furniture – 23.63%
+Technology – 15.66%
+
+Shows which categories receive the most discounts and potential effect on margins.
+
+📌 Profit Over Time (Line Chart)
+
+Purpose: Monitor profit fluctuations to support forecasting and strategic planning.
+
+Insights:
+Peaks: April, August, December
+Dips: July, October
+
+Detects seasonality and operational inefficiencies.
+
+📌 Profit by Discount (Scatter/Trend Chart)
+
+Purpose: Evaluate if discounts drive sales effectively or hurt profitability.
+
+Insights:
+Negative correlation at high discount levels.
+
+Sharp profit drops when discounts exceed certain thresholds.
+
+📌 Percentage of Units Sold per Category (Pie Chart)
+
+Purpose: Understand customer buying behavior and stock movement.
+
+Insights:
+Office Supplies – 60.48%
+Furniture – 21.2%
+Technology – 18.32%
+
+Highlights dominant product categories and contribution to sales volume.
+
+📌 Product Category Sales vs Profit (Bar Chart)
+
+Purpose: Spot high-revenue but low-profit products and optimize pricing/cost.
+
+Insights:
+Phones: High revenue, moderate profit
+Tables: Moderate revenue, low/negative profit
+
+Paper & Supplies: Smaller sales contribution
+
+📌 Year Selector (Slicer)
+
+Purpose: Enable dynamic, time-based filtering to compare performance across 2014–2017.
