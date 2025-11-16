@@ -170,3 +170,120 @@ Paper & Supplies: Smaller sales contribution
 📌 Year Selector (Slicer)
 
 Purpose: Enable dynamic, time-based filtering to compare performance across 2014–2017.
+
+
+❓ Key Questions This Dashboard Answers
+
+a. What are the overall business performance metrics?
+
+Total Sales
+
+Total Profit
+
+Total Quantity Sold
+The KPI cards instantly summarize the company's financial health.
+
+
+b. Which cities contribute the most to sales and profit?
+
+The city-wise comparison highlights:
+
+Top-performing markets
+
+Low-performing cities
+
+Revenue vs. profit discrepancies across regions
+
+
+c. How are discounts distributed across product categories?
+
+The discount donut chart answers:
+
+Which categories receive the highest/lowest discounts
+
+Whether discount strategies are consistent or skewed
+
+
+d. How does profit change over time throughout the year?
+
+The monthly line chart reveals:
+
+Seasonal trends
+
+Profit spikes or dips
+
+Best and worst months
+
+Impact of periodic promotions or events
+
+
+e. Is there a relationship between discounts and profitability?
+
+The Profit vs Discount chart answers:
+
+Whether higher discounts reduce profit
+
+Which discount ranges produce optimal profit
+
+Signs of over-discounting that harm margins
+
+
+f. Which product categories drive the highest volume of sales?
+
+The units sold pie chart shows:
+
+Dominant categories in terms of volume
+
+How category demand varies
+
+Which categories need inventory prioritization
+
+
+g. Which product types generate the most revenue and profit?
+
+The product-wise sales and profit chart answers:
+
+Best-selling products
+
+Products with high revenue but low profit
+
+Loss-making product categories
+
+Opportunities for pricing or cost improvements
+
+
+h. How does performance vary by year?
+
+The year slicer enables:
+
+Multi-year comparison
+
+Trend analysis
+
+Identification of yearly growth or decline
+
+
+i. Where are the major opportunities for business improvement?
+
+From the visuals, the dashboard helps identify:
+
+Unprofitable products
+
+Over-discounted categories
+
+Underperforming cities
+
+Seasonal low points
+
+Inventory planning opportunities
+
+
+j. What are the key drivers of sales vs. profit in the business?
+
+The combined insights reveal:
+
+Whether quantity, pricing, discounting, or geography drive results
+
+How category mix influences profit
+
+Where operational focus should shift
