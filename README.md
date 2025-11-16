@@ -174,7 +174,7 @@ Purpose: Enable dynamic, time-based filtering to compare performance across 2014
 
 ❓ Key Questions This Dashboard Answers
 
-a. What are the overall business performance metrics?
+* What are the overall business performance metrics?
 
 Total Sales
 
@@ -184,7 +184,7 @@ Total Quantity Sold
 The KPI cards instantly summarize the company's financial health.
 
 
-b. Which cities contribute the most to sales and profit?
+* Which cities contribute the most to sales and profit?
 
 The city-wise comparison highlights:
 
@@ -195,7 +195,7 @@ Low-performing cities
 Revenue vs. profit discrepancies across regions
 
 
-c. How are discounts distributed across product categories?
+* How are discounts distributed across product categories?
 
 The discount donut chart answers:
 
@@ -204,7 +204,7 @@ Which categories receive the highest/lowest discounts
 Whether discount strategies are consistent or skewed
 
 
-d. How does profit change over time throughout the year?
+* How does profit change over time throughout the year?
 
 The monthly line chart reveals:
 
@@ -217,7 +217,7 @@ Best and worst months
 Impact of periodic promotions or events
 
 
-e. Is there a relationship between discounts and profitability?
+* Is there a relationship between discounts and profitability?
 
 The Profit vs Discount chart answers:
 
@@ -228,7 +228,7 @@ Which discount ranges produce optimal profit
 Signs of over-discounting that harm margins
 
 
-f. Which product categories drive the highest volume of sales?
+* Which product categories drive the highest volume of sales?
 
 The units sold pie chart shows:
 
@@ -239,7 +239,7 @@ How category demand varies
 Which categories need inventory prioritization
 
 
-g. Which product types generate the most revenue and profit?
+* Which product types generate the most revenue and profit?
 
 The product-wise sales and profit chart answers:
 
@@ -252,7 +252,7 @@ Loss-making product categories
 Opportunities for pricing or cost improvements
 
 
-* h. How does performance vary by year?
+* How does performance vary by year?
 
 The year slicer enables:
 
@@ -263,7 +263,7 @@ Trend analysis
 Identification of yearly growth or decline
 
 
-* i. Where are the major opportunities for business improvement?
+* Where are the major opportunities for business improvement?
 
 From the visuals, the dashboard helps identify:
 
@@ -278,7 +278,7 @@ Seasonal low points
 Inventory planning opportunities
 
 
-j. What are the key drivers of sales vs. profit in the business?
+* What are the key drivers of sales vs. profit in the business?
 
 The combined insights reveal:
 
