@@ -298,4 +298,5 @@ Where operational focus should shift
 
 <img width="293" height="170" alt="image" src="https://github.com/user-attachments/assets/d6a6adc0-7d07-4123-b0cb-c703bc803898" />
 
+<img width="1121" height="637" alt="Dashboard Snapshot" src="https://github.com/user-attachments/assets/673414e7-5e56-4b6b-ab79-daa93de7f12b" />
 
