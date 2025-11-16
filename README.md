@@ -287,3 +287,4 @@ Whether quantity, pricing, discounting, or geography drive results
 How category mix influences profit
 
 Where operational focus should shift
+
