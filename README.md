@@ -292,8 +292,6 @@ Where operational focus should shift
 Repository Structure / Files     
 
 
-Power_Bi_Dashboard/
-├─ Dashboard Snapshot.png
-├─ README.md
-├─ Sample - Superstore.csv
-├─dashboard.pbit
+<img width="293" height="170" alt="image" src="https://github.com/user-attachments/assets/d6a6adc0-7d07-4123-b0cb-c703bc803898" />
+
+
