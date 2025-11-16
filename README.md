@@ -9,8 +9,8 @@ A fully-interactive Power BI dashboard designed to provide insights into overall
 This dashboard consolidates multiple business metrics into a single, easy-to-navigate interface. It highlights performance across cities, product categories, and time periods, enabling data-driven decision-making for sales teams, finance teams, and business managers.
 
 
-
-2. Purpose of the Dashboard
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. **Purpose of the Dashboard**
    
 This dashboard was designed to deliver a clear and interactive overview of overall business performance by focusing on the following objectives:
 Summarize the organization’s overall business health using key visual metrics.
@@ -20,8 +20,8 @@ Analyze the impact of discounts on profitability and highlight areas for margin 
 Visualize time-based profit trends to support forecasting and strategic planning.
 
 
-
-3. Tech Stack
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. **Tech Stack**
    
 🔹 Power BI Desktop
 Used as the main platform to build the entire dashboard — for modeling, cleaning, designing visuals, and publishing.
@@ -60,16 +60,18 @@ Used to visually represent insights using:
 Each visual helps highlight trends, comparisons, and insights in a clear, interactive format.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Dataset
+4. **Dataset**
 
 The dashboard uses the **Superstore Sales Dataset**, a popular sample dataset available on Kaggle.
 It contains historical sales data for a fictional retail company, including fields such as Order ID, Customer Name, Product Category, Sub-Category, Sales, Profit, Quantity, Discount, Region, and Order Date.
 
 This dataset was chosen for its rich KPIs, multiple dimensions, and suitability for analyzing sales trends, profits, and top-performing products. Data preprocessing included removing nulls and duplicates, standardizing column names, and converting date fields to proper types for modeling and visualization in Power BI.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. Dashboard Features / Highlights
+5. **Dashboard Features / Highlights**
 
 detailed overview of the key visualizations in the Power BI Business Performance Dashboard.
 
@@ -171,8 +173,9 @@ Paper & Supplies: Smaller sales contribution
 
 Purpose: Enable dynamic, time-based filtering to compare performance across 2014–2017.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-❓ Key Questions This Dashboard Answers
+❓ **Key Questions This Dashboard Answers**
 
 * What are the overall business performance metrics?
 
@@ -288,8 +291,9 @@ How category mix influences profit
 
 Where operational focus should shift
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Repository Structure / Files     
+**Repository Structure / Files**
 
 
 <img width="293" height="170" alt="image" src="https://github.com/user-attachments/assets/d6a6adc0-7d07-4123-b0cb-c703bc803898" />
